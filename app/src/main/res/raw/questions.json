@@ -1,11 +1,11 @@
 [
   {
-    "question": "Which bear is best?",
+    "question": "Amanda's favorite animals are cats",
     "answer": false
   },
   {
-    "question": "Ellen is a cha cha",
-    "answer": true
+    "question": "Reduction is losing electrons",
+    "answer": false
   },
   {
     "question": "What da function do",
@@ -16,31 +16,31 @@
     "answer": true
   },
   {
-    "question": "Why is life",
-    "answer": false
+    "question": "Cats don't taste sweetness",
+    "answer": true
   },
   {
-    "question": "How much do you lift bro",
-    "answer": false
+    "question": "the Calvin Cycle produces glucose",
+    "answer": true
   },
   {
     "question": "If ur happy and u know it clap ur hands",
     "answer": true
   },
   {
-    "question": "amalgamate is a cha cha",
+    "question": "Ellen's favorite animal is a bluebird",
+    "answer": false
+  },
+  {
+    "question": "The Krebs cycle is aerobic",
     "answer": true
   },
   {
-    "question": "",
-    "answer": true
-  },
-  {
-  "question": "",
+  "question": "The knot in pretzels represent\n hands clasped in prayer",
   "answer": true
   },
   {
-    "question": "",
+    "question": "Taylor Swift's new album \nMidnights is coming out Oct 21",
     "answer": true
   }
 ]

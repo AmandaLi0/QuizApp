@@ -1,0 +1,46 @@
+[
+  {
+    "question": "Amanda 最喜歡的動物是貓",
+    "answer": false
+  },
+  {
+    "question": "還原正在失去電子",
+    "answer": false
+  },
+  {
+    "question": "功能是什麼",
+    "answer": false
+  },
+  {
+    "question": "你點擊最後一個按鈕了嗎",
+    "answer": true
+  },
+  {
+    "question": "貓嘗不到甜味",
+    "answer": true
+  },
+  {
+    "question": "卡爾文循環產生葡萄糖",
+    "answer": true
+  },
+  {
+    "question": "如果你快樂並且你知道它拍拍你的手",
+    "answer": true
+  },
+  {
+    "question": "Ellen 最喜歡的動物是藍鳥",
+    "answer": false
+  },
+  {
+    "question": "克雷布斯循環是有氧的",
+    "answer": true
+  },
+  {
+  "question": "椒鹽捲餅中的結代表雙手合十祈禱",
+  "answer": true
+  },
+  {
+    "question": "Taylor Swift 的新專輯《午夜》將於 10 月 21 日發行",
+    "answer": true
+  }
+]
